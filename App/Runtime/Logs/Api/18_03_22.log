@@ -1,0 +1,56 @@
+[ 2018-03-22T09:07:50+08:00 ] 127.0.0.1 /index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' E:\TM\ags\sc1\sch1\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' E:\TM\ags\sc1\sch1\App\Api\Conf\config.php 第 40 行.
+
+[ 2018-03-22T09:09:59+08:00 ] 127.0.0.1 /index.php/Api/Index/getlist
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' E:\TM\ags\sc1\sch1\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' E:\TM\ags\sc1\sch1\App\Api\Conf\config.php 第 40 行.
+
+[ 2018-03-22T09:10:03+08:00 ] 127.0.0.1 /index.php/Api/Product/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' E:\TM\ags\sc1\sch1\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' E:\TM\ags\sc1\sch1\App\Api\Conf\config.php 第 40 行.
+
+[ 2018-03-22T09:10:43+08:00 ] 127.0.0.1 /index.php/Api/Category/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' E:\TM\ags\sc1\sch1\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' E:\TM\ags\sc1\sch1\App\Api\Conf\config.php 第 40 行.
+
+[ 2018-03-22T09:10:47+08:00 ] 127.0.0.1 /index.php/Api/Shopping/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' E:\TM\ags\sc1\sch1\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' E:\TM\ags\sc1\sch1\App\Api\Conf\config.php 第 40 行.
+
+[ 2018-03-22T09:10:48+08:00 ] 127.0.0.1 /index.php/Api/Shopping/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' E:\TM\ags\sc1\sch1\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' E:\TM\ags\sc1\sch1\App\Api\Conf\config.php 第 40 行.
+
+[ 2018-03-22T09:11:26+08:00 ] 127.0.0.1 /index.php/Api/Index/getlist
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' E:\TM\ags\sc1\sch1\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' E:\TM\ags\sc1\sch1\App\Api\Conf\config.php 第 40 行.
+
+[ 2018-03-22T10:11:31+08:00 ] 127.0.0.1 /index.php/Api/Index/getlist
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' E:\TM\ags\sc1\sch1\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' E:\TM\ags\sc1\sch1\App\Api\Conf\config.php 第 40 行.
+
